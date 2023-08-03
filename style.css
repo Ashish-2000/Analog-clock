@@ -35,7 +35,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background: url(./image/clock.png);
+    background: url(./clock.png);
     background-size: cover;
 }
 .clock::before{
